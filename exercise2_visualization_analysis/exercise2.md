@@ -97,4 +97,4 @@ These graphical variables are appropriate because:
 
 ## Conclusion
 
-This visualization effectively communicates long-term trends in CO₂ emissions and allows comparison between countries. It follows many recommended data visualization principles such as clarity, appropriate graphical variables, and minimal chart junk. However, readability could decrease if too many countries are displayed simultaneously.
+This visualization effectively communicates long-term trends in CO₂ emissions and allows comparison between countries. The chart also highlights important historical trends, such as the decline in per-capita emissions in the United Kingdom and the rapid increase in China during the late 20th and early 21st centuries. It follows many recommended data visualization principles such as clarity, appropriate graphical variables, and minimal chart junk. However, readability could decrease if too many countries are displayed simultaneously.
