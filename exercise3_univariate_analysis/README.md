@@ -1,34 +1,29 @@
-# Exercise 3 – Univariate Analysis
+# AVCAD Exercise 3 – Univariate Analysis
 
-Course: Analysis and Visualization of Complex Agro-Environmental Data
+This repository contains the solution for Exercise 3 of the course:
+
+Analysis and Visualization of Complex Agro-Environmental Data.
 
 ## Objective
-Analyze the distribution of Annual Mean Temperature (`temp_ann`) across the four catchments with the largest number of fish sampling sites.
+To explore the distribution of annual mean temperature across river catchments using univariate visualization methods.
 
-## Dataset
-EFI+ Mediterranean dataset.
-
-## Visualizations
-The following univariate plots were created:
+## Methods
+The analysis includes:
 
 - Strip plots
 - Histograms
 - Boxplots
+- Sampling experiment demonstrating the Central Limit Theorem
 
-Each visualization compares temperature distributions among the selected catchments.
+## Dataset
+EFI+ Mediterranean dataset.
 
-## Additional Analysis
-A simulation was performed using random sampling with replacement to explore how the mean temperature estimate stabilizes with increasing sample size.
+## File
+CaseStudy1_univariate_analysis_visuals.ipynb
 
-Sample sizes tested:
-10, 50, 100, 150, 200, 250, 300, 500, 1000
 
-1000 samples were generated for each sample size.
 
-## Tools Used
-Python libraries:
+## Group Members
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- 29211 – Aster Noel Dsouza  
+- 29400 – David Heleno Bebiano da Costa Morais
