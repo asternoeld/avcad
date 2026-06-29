@@ -11,11 +11,10 @@ data, spanning the individual plot to the planet. Companion project to our Appli
 | Path | Contents |
 |------|----------|
 | `report/` | Written report (`.docx` and `.pdf`) — the main deliverable (5 chapters + annex) |
-| `notebook/` | `AVCAD_final_project_code_annex.ipynb` — reproduces every figure & statistic (Colab-ready) |
+| `notebook/` | `final_project_code_annex.ipynb` — reproduces every figure & statistic (Colab-ready) |
 | `dashboard/` | `AVCAD_dashboard.html` — interactive Plotly dashboard (open in any browser) |
 | `data/` | The three datasets |
 | `figures/` | All 13 report figures (PNG) |
-| `AI_USAGE.md` | AI-usage declaration with prompts |
 | `requirements.txt` | Python dependencies |
 
 ## The three datasets
