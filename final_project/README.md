@@ -13,7 +13,6 @@ final_project/
 ├── README.md
 ├── final_project_code_annex.ipynb     # the code annex — reproduces every figure & statistic
 ├── requirements.txt
-├── AI_USAGE.md                         # AI-usage declaration (with prompts)
 ├── data/                               # the three datasets
 │   ├── Crop_recommendation.csv
 │   ├── oecd_crop_production.csv
